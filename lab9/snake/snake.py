@@ -1,7 +1,7 @@
 import pygame
 import random
 import time
-vhbj bhvj
+
 pygame.init()
 
 # Set screen dimensions
